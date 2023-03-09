@@ -38,7 +38,7 @@
 
 ** Requirements
    
-   - [ ] Implement the AJAX Javascript parts in the HTML file static/index.htm
+   - [ ] Implement the AJAX Javascript parts in the HTML file static/index.html
    - [ ] Implement the webservice root
    - [ ] Implement the webservice /entity/entity-name POST/PUT/GET API
    - [ ] Implement the webservice /world API
@@ -59,8 +59,8 @@
 
  
 ** Restrictions
-   - [ ] Use Python 3.6
-   - [ ] Must run in the VM (Ubuntu 18.10)
+   - [x] Use Python 3.6
+   - [x] Must run in the VM (Ubuntu 18.10)
    - [ ] License your code properly (use an OSI approved license)
      - Put your name on it!
 
