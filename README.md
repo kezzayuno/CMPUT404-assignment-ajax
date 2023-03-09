@@ -1,6 +1,8 @@
 CMPUT404-assignment-ajax
 ==============================
 
+Collaborators: Akshat Pandey (apandey3)
+
 CMPUT404-assignment-ajax
 
 See requirements.org (plain-text) for a description of the project.
